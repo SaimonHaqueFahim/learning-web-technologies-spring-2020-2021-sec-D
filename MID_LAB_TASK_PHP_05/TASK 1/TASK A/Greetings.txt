@@ -1,0 +1,7 @@
+<html>
+<body>
+
+greetings <?php echo $_POST["name"]; ?><br>
+
+</body>
+</html>
